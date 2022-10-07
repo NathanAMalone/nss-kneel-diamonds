@@ -33,7 +33,7 @@ const database = {
             sizeId: 2,
             styleId: 3,
             timestamp: 1614659931693
-        }
+        } 
     ],
     
     orderBuilder: {}
